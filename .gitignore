@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.idea
+
+### Python template
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*$py.class
+
+local_settings.py
+
+# mypy
+.mypy_cache/
+
